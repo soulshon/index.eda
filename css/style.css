@@ -1,5 +1,5 @@
 * {
-     box-sizing: border-box;
+    box-sizing: border-box;
     }
 body{
     font-family: 'Roboto', sans-serif;
@@ -473,13 +473,12 @@ margin-bottom: 13px;
         color: #000000;
         margin-right: 50px;
     }
-    .social-links{
+    .social-links {
         display: flex;
         align-items: center;
         margin-left: auto;
     }
-    .social-link{
+    .socisals-link {
         margin-left: 20px;
         text-decoration: none;
-
     }
